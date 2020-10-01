@@ -1,5 +1,6 @@
 //C program to rotate an array by 
-// d elements 
+// d elements //very interesting program
+#include<stdlib.h>
 #include <stdio.h> 
   
 /* Function to left Rotate arr[] of size n by 1*/
